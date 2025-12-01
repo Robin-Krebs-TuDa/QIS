@@ -1,6 +1,6 @@
-# Quantum Information Science 2024/25
+# Quantum Information Science 2025/26
 
-This is the github repository for the QIS course 2024/25 at TU Darmstadt. <br>
+This is the github repository for the QIS course 2025/26 at TU Darmstadt. <br>
 Code relevant to the course will be uploaded and maintained here.
 
 ## Distillation Protocols
@@ -10,7 +10,7 @@ All three versions cover the same material.
 
 ### Installation
 #### Mathematica version
-Should work with any Mathematica installation out of the  box.
+Should work with any Mathematica installation out of the box.
 
 #### Matlab version
 Matlab will automatically open an installation dialogue in case of missing dependencies.
